@@ -8,6 +8,7 @@
     
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="./css/style.css">
+
     
   </head>
   <body>
@@ -56,7 +57,7 @@
               <img src="img/dublin.jpg" id="IntroEsquerdo">
             </div>
             <div class="col-lg-5">
-              <h1>Maquina calculadora</h1>
+              <h1>Maquina calculadora basica</h1>
 
               <p> calculador criada como exemplo pessoal. Estou trabalhando com githubgit<br>Veja o resultdao embaixo</p>
               
